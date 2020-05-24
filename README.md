@@ -5,7 +5,7 @@ This was an exercise in [The Modern React Bootcamp](https://www.udemy.com/course
 The instructions were as following:
 
 <blockquote>
-Part One: Add A Key <br/><br/>
+Part One: Add A Key <br/>
   
 Currently, the buttons don’t have a key prop. Fix this issue!
 
