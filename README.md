@@ -5,7 +5,8 @@ This was an exercise in [The Modern React Bootcamp](https://www.udemy.com/course
 The instructions were as following:
 
 <blockquote>
-Part One: Add A Key
+Part One: Add A Key <br/><br/>
+  
 Currently, the buttons don’t have a key prop. Fix this issue!
 
 Part Two: Number of Wrong Guesses
@@ -36,7 +37,7 @@ Add a button that will restart the game. This should pick a new random word and 
 
 <b>Source code:</b> [GitHub](https://github.com/bitVivAZ/react-hangman-starter/)
 
-<b>Website:</b> [React Color Boxes](https://bitvivaz.com/react-hangman-starter/)
+<b>Website:</b> [React Hangman](https://bitvivaz.com/react-hangman-starter/)
 
 ### Screenshots
 ![][homepage]
