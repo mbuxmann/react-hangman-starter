@@ -29,15 +29,13 @@ Part Six: Add “Restart” Button <br/><br/>
 Add a button that will restart the game. This should pick a new random word and reset the guessed list and number of wrong guesses.
 </blockquote>
 
+<b>Website:</b> [React Hangman](https://bitvivaz.com/react-hangman-starter/)
+
 ### Tech Stack 
 - React
 - JavaScript
 - HTML
 - CSS
-
-<b>Source code:</b> [GitHub](https://github.com/bitVivAZ/react-hangman-starter/)
-
-<b>Website:</b> [React Hangman](https://bitvivaz.com/react-hangman-starter/)
 
 ### Screenshots
 ![][homepage]
